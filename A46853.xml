@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Jesuites firing-plot revived, or, A warning to house-keepers being the full and true relation how Elizabeth Owen, on the 8th of this instant November, set fire to the house of one Mr. Cooper, living in Fleetstreet between S. Dunstans Church and Fetter-lane-end, she being a servant in the said house ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46853</idno>
+            <idno type="STC">Wing J715</idno>
+            <idno type="STC">ESTC R10490</idno>
+            <idno type="EEBO-CITATION">12253677</idno>
+            <idno type="OCLC">ocm 12253677</idno>
+            <idno type="VID">57241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57241)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 151:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Jesuites firing-plot revived, or, A warning to house-keepers being the full and true relation how Elizabeth Owen, on the 8th of this instant November, set fire to the house of one Mr. Cooper, living in Fleetstreet between S. Dunstans Church and Fetter-lane-end, she being a servant in the said house ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. Curtiss,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Owen, Elizabeth.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57241:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb n="1" facs="tcp:57241:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>THE JESUITES Firing-PLOT Revived: Or, A Warning to Houſe-Keepers.</head>
+            <argument>
+               <p>Being the Full and true <hi>Relation</hi> how <hi>Elizabeth Owen,</hi> on the 8<hi rend="sup">th</hi> of this Inſtant <hi>November,</hi> ſet fire to the Houſe of one Mr. <hi>Cooper,</hi> li<g ref="char:EOLhyphen"/>ving in Fleetstreet between S. <hi>Dunſtans</hi> Church and Fetter-lane-end: ſhe being a Servant in the ſaid Houſe.</p>
+               <p>With an Account how ſhe broke open and robbed ſeveral Trunks, into which ſhe put ſeveral lighted Candles, which fired both the Rafters and Floors of the Garrets. With the Manner how it came to be diſcovered: and her Cloathes found ready bundled up among other things. As alſo her Exa<g ref="char:EOLhyphen"/>mination, Confeſſion and Commitment to <hi>Newgate,</hi> in order to her Tryal.</p>
+            </argument>
+            <p>THough <hi>Rome</hi> has been ſo often baffled in her weak and ſhallow Contrivances, yet her Agents think it not convenient to give over, although in every Deſign and new Contrivance, their Ma<g ref="char:EOLhyphen"/>lice and Folly is made to appear, to the Abhorrence and Deteſtation of all ſober and civil Perſons; nor can they pre<g ref="char:EOLhyphen"/>vail to Work upon any but Poor contemptible Proſelites, whom they by the powerful Charms of Gain, do bring into Snares: that ſo their work may be perfected, though to their utter Ruin, as
+<pb n="2" facs="tcp:57241:2"/>
+               <!-- PDF PAGE 20 -->
+may be obſerved in the many Firing Plots the cunning Jeſuites have of late Contrived; in which for the moſt part they Employ ſilly Servant-Maides, promiſing them after the pernicious Work is done, that they ſhall receive much Wealth: which makes them go Boldy on to perpetrate the horrid Deed: But then be<g ref="char:EOLhyphen"/>ing taken by the Hand of Juſtice, they are left in great Confu<g ref="char:EOLhyphen"/>ſion and Amazement, not knowing where to find the Man that did Enjoyn them their deſtructive Task.</p>
+            <p>An Inſtance of which may be plainly ſeen, in a late unlucky Miſchief which happened to the Houſe of Mr. <hi>Cooper,</hi> commonly known by the Name of the <hi>Suſſex</hi>-Houſe, near to <hi>Fetter</hi>-Lane end, in <hi>Fleet</hi>-ſtreet: The m<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nner of which was as followeth, About a Month ſince Mr. <hi>Coope<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> having an occaſion for a Servant-Maid, by reaſon of the departure of his former, was by a Friend of his VViſhed to one <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liſabe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Owen</hi> who had of late dwelt in <hi>Grace-Church</hi>-ſtreet and upon his Friends Recommendation he accord<g ref="char:EOLhyphen"/>ingly Entertained her in his Houſe, in nature <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f his Servant; She behaving her ſelf ſeemingly well, and never was obſerved to have any one follow her, unleſs one young Man, whom ſhe called <hi>Cozen,</hi> pretending he was her Uncles Son: on <hi>Sunday</hi> laſt being the ſeventh of this Inſtant <hi>November,</hi> her Miſtriſs and ſhe had a ſmall falling-out, about the Dreſſing of a Dinner, and ſome Words paſt, but in no likelyhood of ſuch force as to prompt her on to ſuch a deſpe<g ref="char:EOLhyphen"/>rate Revenge, the Feude being reaſonably pacified; She went about her VVork as at other times ſhe was wont to do, continu<g ref="char:EOLhyphen"/>ing very Chearful all <hi>Sunday</hi> after, and likewiſe <hi>Monday,</hi> which was the Day, wherein ſhe Acted the horrid Deed. About nine of the Clock in the Evening, ſhe was obſerved to go up Stairs, at which time, as She ſince did not greatly deny, and by Circum<g ref="char:EOLhyphen"/>ſtances does plainly Appear. She went into the Garret where the Tapſter of the Houſe Lay, and with a Bunch of Keys that were afterwards found about her, opened ſeveral Trunks, in which were Cloathes which ſhe took out and bundled up, putting ſeveral of her own amongſt them: After that with ſeveral Candles (the Tallow of which being found melted on the Floor) ſhe ſet the Trunks on Fire, placing them where ſhe thought they ſooneſt would take hold of the Timber. This being done and ſhe ſeeing them to begin to Blaize, went down Stairs, and placed her ſelf in the Barr, this being between Ten and Eleven of the Clock: when immediately the Smoak came down Stairs, of which e'r any be<g ref="char:EOLhyphen"/>ſides thoſe of the Houſe ſmelt it, She began to complain of, ſay<g ref="char:EOLhyphen"/>ing, That there was an intolerable Smoak, which almoſt put her
+<pb n="3" facs="tcp:57241:2"/>
+               <!-- PDF PAGE 20 -->
+Eyes out. VVhereupon her Miſtriſs Anſwered, She ſaw no ſuch mighty Smoak as ſhe pretended: But if there was any ſhe belie<g ref="char:EOLhyphen"/>ved, That it proceeded from the Burning of Faggots in the Cham<g ref="char:EOLhyphen"/>ber over Head. There having been ſome Gentle-men of her Ac<g ref="char:EOLhyphen"/>quaintance lately in the ſame. But the Wench perſiſted, That it could not come from thence, but that the Houſe ſhe feared, was on Fire, or Words to that effect; the Smoak ſtill encreaſing more and more, They were induced to Believe there had ſome miſchief indeed hapned, or that ſome Brand roaling out of the Chimney, might have taken hold of the Hangings, ſo that running up Stairs, they went into the Room where the Fire had been made, but found all things in good Order: When looking farther they obſerved a Smoak to come down the other pair of Stairs, that were yet higher: So that when they went up them, they found the Garrets all on Fire, being fired in ſeveral places, and that in one place it had Burnt quite through the Floor, into the Chamber underneath: Whereupon they immediately called for help, which was not long e'r they had ſufficient from their Neighbours; and through Providence in a ſhort time Maſtered that Raging E<g ref="char:EOLhyphen"/>lement which then began to Blaze through the Roof of the Houſe: And, Heaven knows, had it not been ſo ſtayed, it being amongſt Old Buildings, what harm it might have done, or where have ended.</p>
+            <p>After the Fire was beaten down, and the hurry was over, they began to ſearch into the Cauſe of it, or how it ſhould happen, which they long had not done, before they found, as we have already mentioned, ſeveral parcels of Greace, which come from the melted Candles, and that the Trunkes being firſt opened were ſet on Fire, which being light and dry, had Fired the reſt. Both the Garrets being Fired in ſeveral places, the Trunks Burnt to Aſhes, but the Aſhes of no Woollen Apparel found amongſt the reſt; Which made them Enquire what might become of the VVoollen that was in them, and upon farther ſearch found that it was thrown out at the VVindow, into a little Paved Yard, and as it is before-mentioned many of <hi>Eliſabeth Owen's</hi> own Cloathes packt up amongſt them, which cauſed her Maſter and Miſtriſs to ſuſpect her as Guilty of Firing their Houſe: And thereupon by the Advice of ſeveral Neighbours, They Cauſed her to be Appre<g ref="char:EOLhyphen"/>hended, and for that Night ſecured, the next Morning She was carried before the Right VVorſhipful Sir <hi>William Turner</hi> Alderman and Juſtice of the Peace, for the City of <hi>London:</hi> VVho Exami<g ref="char:EOLhyphen"/>ned her ſtrictly in all Points, but could not get nothing out of
+<pb n="4" facs="tcp:57241:3"/>
+               <!-- PDF PAGE 21 -->
+her, She being of a ſullen dogged Temper; only ſhe did Declare to ſome Perſons of VVorth and Credit, that ſhe did not deſign the Fire ſhould have began ſo ſoon, but that it ſhould have been much longer e'r it had kindled, ſo that it might have Surpriſed her Ma<g ref="char:EOLhyphen"/>ſter and Miſtriſs, with all the reſt of the Family, her ſelf only ex<g ref="char:EOLhyphen"/>cepted, and have Burnt them in their Beds, ſo horrid and deſpe<g ref="char:EOLhyphen"/>rate was her Helliſh Deſign. After a long Examination She was Committed to <hi>Newgate,</hi> where ſhe now remains. Not long after She was Committed, her pretended Cozen came to look for her; Who, perhaps had he been taken and narrowly ſifted, might have pro<g ref="char:EOLhyphen"/>ved the Jeſuite or the Jeſuites Agent, that Employed her to Act this deſperate Exploit and horrid Villany.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>L. Curtiſs.</hi> 1680.</p>
+            <pb facs="tcp:57241:3"/>
+            <!-- PDF PAGE 21 -->
+         </div>
+      </back>
+   </text>
+</TEI>
